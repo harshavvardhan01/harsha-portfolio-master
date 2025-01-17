@@ -5,7 +5,7 @@ export const services = [
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Software Engineer",
+        title: "React Developer",
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
